@@ -20,6 +20,9 @@ While CNNs have driven significant progress in vision tasks, they often rely on 
 
 The Human Visual Diet (HVD) dataset has been entirely created by Madan et al. (2024) and is available in their github page: https://github.com/Spandan-Madan/human_visual_diet.
 
+## Code 
+
+The code was mainly my work using functions already established in the field. It is available as three files: each one for each model. In each file there is the entire code I run (separated in different cell boxes) with inputs and outputs of the models, so it is possible to see the results. The codespace used was google colab. 
 ##  Metrics
 
 - **Pixel Accuracy**
