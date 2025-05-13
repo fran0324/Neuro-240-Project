@@ -33,11 +33,11 @@ The code was mainly my work using functions already established in the field. It
 
 ##  Key Results
 
-| Model       | Pixel Acc. | Mean IoU |
-|-------------|------------|----------|
-| ResNet-18   | ~57%       | ~0.35    |
-| DenseNet-121| ~72%       | ~0.50    |
-| SegFormer-B0| ~81%       | ~0.60    |
+| Model       | Pixel Acc. |
+|-------------|------------|
+| ResNet-18   | ~57%       | 
+| DenseNet-121| ~74%       |
+| SegFormer-B0| ~80%       |
 
 - All models struggle with **edge segmentation**, confuse **floor/wall**, and sometimes rely on **contextual shortcuts**.
 - ViT attention maps show more global reasoning, but often attend to irrelevant regions too.
