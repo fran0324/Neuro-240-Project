@@ -22,7 +22,7 @@ The Human Visual Diet (HVD) dataset has been entirely created by Madan et al. (2
 
 ## Code 
 
-The code was mainly my work using functions already established in the field. It is available as three files: each one for each model. In each file there is the entire code I run (separated in different cell boxes) with inputs and outputs of the models, so it is possible to see the results. The codespace used was google colab. 
+The code was mainly my work using functions already established in the field. It is available as three files: one for each model. In every file there is the  code I run for that model (separated in different cell boxes) with inputs and outputs of the models. The codespace used was google colab. 
 ##  Metrics
 
 - **Pixel Accuracy**
