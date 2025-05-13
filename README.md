@@ -41,6 +41,8 @@ The Human Visual Diet (HVD) dataset has been entirely created by Madan et al. (2
 
 ## Author 
 
-#Francesco Plastina 
-#Undergraduate Student Harvard University 
-#Course: Neuro 140/240
+Francesco Plastina 
+
+Undergraduate Student Harvard University 
+
+Course: Neuro 140/240
