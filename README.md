@@ -31,12 +31,12 @@ While CNNs have driven significant progress in vision tasks, they often rely on 
 └── README.md
 
 
-## 🧪 Models
+##  Models
 
 - `ResNet-18` and `DenseNet-121` are used with custom decoder heads for segmentation.
 - `SegFormer-B0` (from HuggingFace) is fine-tuned for semantic segmentation.
 
-## 📊 Metrics
+##  Metrics
 
 - **Pixel Accuracy**
 - **Mean IoU**  
@@ -44,7 +44,7 @@ While CNNs have driven significant progress in vision tasks, they often rely on 
   - Grad-CAM (ResNet, DenseNet)
   - Self-attention maps (SegFormer ViT)
 
-## 📈 Key Results
+##  Key Results
 
 | Model       | Pixel Acc. | Mean IoU |
 |-------------|------------|----------|
