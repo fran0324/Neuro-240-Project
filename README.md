@@ -1,6 +1,6 @@
 # Comparative Analysis of Segmentation Models on Human Visual Diet Dataset
 
-This project compares the performance and interpretability of three deep learning models — ResNet-18, DenseNet-121, and SegFormer (a Vision Transformer) — for semantic segmentation on the Human Visual Diet dataset, a benchmark designed to reflect human-like visual experience.
+This project compares the performance and interpretability of three deep learning models — ResNet-18, DenseNet-121, and SegFormer (Vision Transformer) — for semantic segmentation on the Human Visual Diet dataset, a benchmark designed to reflect human-like visual experience.
                                                           
 ##  Motivation
 
