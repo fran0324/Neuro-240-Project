@@ -46,6 +46,6 @@ The code was mainly my work using functions already established in the field. It
 
 Francesco Plastina 
 
-Undergraduate Student Harvard University 
+Undergraduate Student Harvard University Class of 2028
 
 Course: Neuro 140/240
