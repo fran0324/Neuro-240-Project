@@ -25,8 +25,7 @@ The Human Visual Diet (HVD) dataset has been entirely created by Madan et al. (2
 The code was mainly my work using functions already established in the field. It is available as three file .py : one for each model (ResNet and DenseNet have also an additional ipynb file to show an example of code run). In every file there is the  code I ran for that model. The codespace used was google colab. 
 ##  Metrics
 
-- **Pixel Accuracy**
-- **Mean IoU**  
+- **Pixel Accuracy** 
 - Visualizations via:
   - Grad-CAM (ResNet, DenseNet)
   - Self-attention maps (SegFormer ViT)
