@@ -47,4 +47,4 @@ Francesco Plastina
 
 Undergraduate Student Harvard University Class of 2028
 
-Course: Neuro 140/240
+Course: Neuro 140/240 by Prof. Gabriel Kreiman
